@@ -1,0 +1,20 @@
+user
+Payoneer ( payoneer[.]gps@alerting-services[.]com )
+to john[.]doe@mybusiness[.]com
+
+You have received a new payment to your Global Payment Service!
+ 
+Amount	$9100.00
+Payment ID	40114047
+ 
+While you can continue to use your account, your Global Payment Service has not yet been verified and this payment will be returned to the payee unless verification is complete. Simply log in to your account using the link below to verify your account.
+This is a time sensitive link. Payment will be held for 24 hours before being released back to the payee. The countdown begins at Fri Feb 13 2026 17:26:30 GMT+0530 (India Standard Time).
+Note: If clicking Verify fails, please click the link below:
+http://payouts.payoneer.com/Verify/Gateway.aspx?PD=9S1J4f39L9HDSM8Y
+Verify
+Once verified, your funds will become available instantly.
+ 
+Sincerely,
+Payoneer Verification & Approvals Department
+ 
+Disclaimer: This email and any attachments are confidential and intended solely for the recipient. If you are not the intended recipient, please notify the sender immediately and delete this email from your system. Any unauthorized use, disclosure, or distribution of its contents is prohibited. The sender accepts no liability for any errors or omissions in the content of this message or for any damage caused by viruses transmitted via email.
