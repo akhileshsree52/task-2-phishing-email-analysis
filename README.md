@@ -46,4 +46,4 @@ A professional tone and legal disclaimer are included to make the email appear a
 The email contains multiple phishing indicators including sender spoofing, urgency, suspicious links, lack of personalization, and social engineering tactics. Based on this analysis, the email is identified as a **phishing attempt** intended to steal user credentials.
 
 ## Learning Outcome
-Through this task, I gained practical experi
+Through this task, I gained practical experience in identifying phishing emails, understanding common attacker techniques, and analyzing email-based threats to improve cybersecurity awareness.
