@@ -1,0 +1,22 @@
+Phishing Email Analysis Report
+
+1. Sender Address Analysis:
+The email claims to be from Payoneer but originates from a third-party domain (alerting-services.com), indicating sender spoofing.
+
+2. Urgent Language:
+The email uses urgency and time pressure by stating the payment will be returned within 24 hours unless action is taken.
+
+3. Suspicious Link:
+The email includes a verification link prompting the user to log in. Clicking such links is unsafe and commonly used in phishing attacks.
+
+4. Social Engineering:
+The attacker uses a high payment amount ($9100) to create excitement and pressure the recipient into acting quickly.
+
+5. Lack of Personalization:
+The email does not address the recipient by name, which is common in mass phishing campaigns.
+
+6. False Legitimacy Indicators:
+The presence of a legal disclaimer is intended to make the email appear legitimate.
+
+Conclusion:
+The email contains multiple phishing indicators and is a malicious attempt to steal user credentials.
